@@ -18,10 +18,9 @@ If the driver does not work.
 Mine did not work as it had one side of the circuit broken.
 
 - I used 12v power adapter 1A.
+- Changed from one side of the circuit to another as one side of the circuit was broken
 
-
-Used this code and it works.
-
+Used this code and it works.  5 and 4 for turning CW or CCW, with 3 controlling the speed.
 
 
 ```
