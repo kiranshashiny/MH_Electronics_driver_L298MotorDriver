@@ -2,12 +2,12 @@
 
 ![image](https://user-images.githubusercontent.com/14288989/218312073-0a10213f-58cf-47e1-a1a2-9c6531d9cd30.png)
 
-If the driver does not work.
 
 https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/
 
 ![image](https://user-images.githubusercontent.com/14288989/218312115-49764728-9ee0-4c35-b69f-47b4f651fe6d.png)
 
+If the driver does not work.
 
 - All the 3 pins on the motor driver are connected ( 4 and 5 for direction, and 3 for speed control (
 - Check that the enA is coded to send a value between  0-255, for speed control
