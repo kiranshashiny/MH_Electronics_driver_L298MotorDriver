@@ -128,6 +128,18 @@ Compiling
 ![image](https://user-images.githubusercontent.com/14288989/219933661-69a95418-0406-4599-9dc2-5ad1b812295f.png)
 
 
+DC motor connections
+
+
+![image](https://user-images.githubusercontent.com/14288989/219933720-e7aaeefd-8eb8-4407-a2e6-7a0473eeec6f.png)
+
+
+Key point in the Arduino sketch:
+
+![image](https://user-images.githubusercontent.com/14288989/219933698-a6e3b1ad-4bb6-4470-bde9-42254aa783f9.png)
+
+
+
 ```
 // Adafruit Motor shield library
 // copyright Adafruit Industries LLC, 2009
