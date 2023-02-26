@@ -1,4 +1,4 @@
-# Troubleshooting L298 MotorDriver with Arduino
+# MH Electronics driver and L298 MotorDriver with Arduino
 
 ![image](https://user-images.githubusercontent.com/14288989/218312073-0a10213f-58cf-47e1-a1a2-9c6531d9cd30.png)
 
